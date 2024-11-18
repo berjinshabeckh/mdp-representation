@@ -1,5 +1,9 @@
 # MDP REPRESENTATION
 
+# Date: 28/08/2024
+# Name: H.Berjin Shabeck
+# Reg no: 212222240018
+
 ## AIM:
 To represent a Markov Decision Process(MDP) problem in the following ways.
 
